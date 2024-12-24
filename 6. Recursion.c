@@ -36,7 +36,7 @@ void toh(int n,char s,char t,char d){
 
 
 void main(){
-    printf("%d", factorial(5));
-    printf("%d", fibonacci(5));
+    printf("factorial(5) = %d\n", factorial(5));
+    printf("fibonacci(5) = %d\n", fibonacci(5));
     toh(3,'s','t','d');
 }
